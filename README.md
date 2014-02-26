@@ -1,0 +1,1 @@
+Starter project for simple application with Spring Framework.
